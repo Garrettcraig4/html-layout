@@ -1,0 +1,26 @@
+header {
+  background: rgb(51, 49, 49);
+  width: 100%;
+  height: 150px;
+}
+.left-side {
+  background: rgb(219, 215, 214);
+  width: 200px;
+  height: 810px;
+}
+.right-side {
+  background: rgb(219, 215, 214);
+  width: 200px;
+  height: 810px;
+  position: relative;
+  left: 1062px;
+  bottom: 810px;
+}
+footer {
+  background: black;
+  width: 863px;
+  height: 90px;
+  position: relative;
+  left: 200px;
+  bottom: 916px;
+}
